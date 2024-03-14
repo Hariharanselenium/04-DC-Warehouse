@@ -1,0 +1,15 @@
+{
+   
+    "payments": [
+       
+        {
+      
+            "amountAlloc": 25,
+            "change": 0.00,
+            "paymentType": "Cash",
+            "comments": "",
+            "tax": "",
+            "holdDate": "2022-11-15"
+        }
+    ]
+}

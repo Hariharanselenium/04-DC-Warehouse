@@ -1,0 +1,10 @@
+{				
+ 	"description": "DM 2/99¢ HONEY FUSION",	 					  
+    "manufacturer": "USA",														
+    "cost": 90.00,				  
+    "retail": 10,				  
+   "casePack": 10,
+	"uCount": 200,						   			   
+    "caseQuantity":30,			
+    "taxedWeightUnit": "6"
+}

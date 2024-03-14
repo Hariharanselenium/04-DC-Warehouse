@@ -1,0 +1,34 @@
+{
+    "supplierNumber": "874",
+    "amountPaid": 501,
+    "paymentType": "CASH",
+    "chequeNo": "",
+    "chequeDate": "",
+    
+    "inTheNameOf": "",
+    "bankName": "",
+    "transactionId": "",
+    "transactionDate": "",
+    
+    "poDate": "2023-05-29",
+    "paymentTerm": "A.C.H",
+    "receivedDate": "2023-06-15",
+    "poAmount": "501.00",
+    "freight": 0,
+    "tax": 0,
+    "other": 0,
+    "items": [
+        {
+            "itemNumber": "6856758",
+            "stockItemNumber": "15018",
+            "retail": 10.8347,
+            "cost": "12.35",
+            "pTax": "0.00",
+            "quantity": "20",
+            "caseQty": 2,
+            "discount": "",
+            "amount": 247,
+            "price": "12.35"
+        }
+    ]
+}
